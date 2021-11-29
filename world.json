@@ -1,0 +1,31 @@
+{
+  "name": "campaign-2",
+  "title": "Campaign 2",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Ceria World Lore",
+      "entity": "JournalEntry",
+      "name": "ceria-world-lore",
+      "path": "packs/ceria-world-lore.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.5"
+}
