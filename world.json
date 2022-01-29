@@ -1,12 +1,12 @@
 {
   "name": "campaign-2",
   "title": "Campaign 2",
-  "description": null,
+  "description": "",
   "author": "Bedlam",
   "authors": [],
   "url": "https://github.com/teberger/foundry-campaign-2",
   "flags": {},
-  "version": "1.0.4",
+  "version": "1.0.5",
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "scripts": [],
@@ -21,19 +21,18 @@
       "path": "packs/ceria-world-lore.db",
       "system": "dnd5e",
       "package": "world",
-      "private": false
+      "private": false,
+      "type": "JournalEntry"
     }
   ],
   "system": "dnd5e",
   "dependencies": [],
   "socket": false,
   "manifest": "https://github.com/teberger/foundry-campaign-2/-/raw/main/world.json",
-  "download": "https://github.com/teberger/foundry-campaign-2/archive/refs/tags/v1.0.4.zip",
+  "download": "https://github.com/teberger/foundry-campaign-2/archive/refs/tags/v1.0.5.zip",
   "protected": false,
-  "background": "",
-  "coreVersion": "0.8.9",
-  "nextSession": null,
+  "coreVersion": "9.245",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.5.5"
+  "systemVersion": "1.5.6"
 }
